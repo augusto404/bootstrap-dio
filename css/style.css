@@ -1,0 +1,60 @@
+body {
+    font-size: 1rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+}
+
+.navbar {
+    background-color: #D9A796;
+    text-align: right;
+    padding: 10px 50px 10px 50px;
+}
+
+nav > a > img {
+    width: 100px;
+    height: 100px;
+    background-size: cover;
+}
+
+h3 {
+    font-size: 1.5  rem;
+    margin: 30px 0px 40px 0px;
+}
+
+.margin {
+    padding: 50px 0px 50px 0px;
+}
+
+#quem-somos > div > img {
+    max-width: 400px;
+    max-height: 400px;
+}
+
+.quem-somos {
+    color: white;
+    background-color: #A65D56;
+}
+
+.parceiros {
+    background-color: #BF754B;
+}
+
+p {
+    font-weight: bolder;
+    margin: 20px;
+}
+
+.row > div > img {
+    background-size: cover;
+    width: 100%;
+}
+
+footer {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+    font-size: 0.8rem;
+
+    background-color: #732002;
+    color: white;
+    padding: 10px;
+}
